@@ -2,7 +2,7 @@
 // @name         HappyMooc延时（适用最新版）
 // @namespace    http://tampermonkey.net/
 // @version      2.3
-// @description  try to take over the Mooc!
+// @description  try to take over the world!
 // @author       GiaoWei&GiaoYao
 // @grant        none
 // @match        https://www.icourse163.org/learn/*
